@@ -1,0 +1,87 @@
+.Blue{
+	display: inline-block;
+	background-color:  #193367;
+	width: 970px;
+	padding:5px;
+
+}
+
+
+
+.Red{
+	display:block;
+	background-color: red;
+	margin: 10px;
+	height: 60px;
+	border-radius:15px;
+	padding: 5px;
+
+
+
+
+
+
+}
+.skyblue{
+
+	display: inline-block;
+	background-color: #0086b3;
+	border-radius:15px;
+	margin: 5px;
+	width: 200px;
+	height: 240px;
+	padding: 8px;
+	vertical-align: top;
+
+
+
+
+
+}
+
+.black{
+	display: inline-block;
+	background-color:#0d0d0d;
+	border-radius:15px;
+	margin: 5px;
+	width: 700px;
+	height: 500px;
+	padding: 10px;
+
+
+
+
+}
+.text{
+	color: white;
+	font-size:13px;
+	font-family:sans-serif;
+	font-style: normal;
+
+}
+.gray{
+	display: block;
+	background-color: gray;
+	border-radius:15px;
+	margin: 5px;
+	padding: 2px;
+
+}
+.heading{color: white;}
+
+.underline{
+           color:skyblue;
+           text-decoration: underline;
+
+
+}
+.purpal{
+	color: #6a5acd;
+}
+.urlcolor{
+	color: skyblue;
+}
+.margen_left{
+	    margin-left: 15px;
+	    color: white;
+}
